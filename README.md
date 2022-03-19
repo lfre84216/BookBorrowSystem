@@ -13,7 +13,7 @@
 - Windows Form
 - ADO.NET
 - MSSQL
-- MetroModernUI<br><br>
+- MetroModernUI
 
 
 ## 主要實作功能
@@ -22,7 +22,7 @@
 - 借書流程 (尋找書籍->檢查是否有人借閱->申請借閱->查詢借閱)
 - 書籍借閱排行榜
 - 後臺管理系統 (CRUD增刪改查操作)
-- 使用者申報推薦書籍<br><br>
+- 使用者申報推薦書籍
 
 ## 程式截圖
 
