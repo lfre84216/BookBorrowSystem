@@ -24,7 +24,7 @@
 - 後臺管理系統 (CRUD增刪改查操作)
 - 使用者申報推薦書籍
 
-## 相關程式截圖
+## 相關程式畫面
 登入註冊相關畫面<br>
 <img src="https://github.com/lfre84216/BookBorrowSystem/blob/main/7.png">
 <br><br><br>
