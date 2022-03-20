@@ -27,26 +27,20 @@
 ## 相關程式畫面
 ### 登入註冊<br>
 <img src="https://github.com/lfre84216/BookBorrowSystem/blob/main/7.png">
-
 <img src="https://github.com/lfre84216/BookBorrowSystem/blob/main/8.png">
 <br>
 
 ### 使用者介面<br>
 <img src="https://github.com/lfre84216/BookBorrowSystem/blob/main/1.png">
-<br>
 <img src="https://github.com/lfre84216/BookBorrowSystem/blob/main/2.png">
-<br>
 <img src="https://github.com/lfre84216/BookBorrowSystem/blob/main/3.png">
-<br>
 <img src="https://github.com/lfre84216/BookBorrowSystem/blob/main/4.png">
 <br>
 
 ### 管理者介面<br>
 <img src="https://github.com/lfre84216/BookBorrowSystem/blob/main/5.png">
-<br>
 <img src="https://github.com/lfre84216/BookBorrowSystem/blob/main/6.png">
 <br>
-
 
 ## 製作過程與困難點
 在實作該專案的過程中，有嘗試想要實際讓資料庫可以被外部來連接，<br>
