@@ -25,7 +25,7 @@
 - 使用者申報推薦書籍
 
 ## 程式截圖
-<img src="https://lfre84216/BookBorrowSystem/1.png">
+<img src="https://github.com/lfre84216/BookBorrowSystem/blob/main/1.png">
 
 ## 製作過程與困難點
 在實作該專案的過程中，有嘗試想要實際讓資料庫可以被外部來連接，<br>
