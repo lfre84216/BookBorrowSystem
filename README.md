@@ -29,7 +29,7 @@
 <img src="https://github.com/lfre84216/BookBorrowSystem/blob/main/7.png">
 <br>
 <img src="https://github.com/lfre84216/BookBorrowSystem/blob/main/8.png">
-<br><br><br>
+<br>
 
 ### 使用者<br>
 <img src="https://github.com/lfre84216/BookBorrowSystem/blob/main/1.png">
@@ -39,13 +39,13 @@
 <img src="https://github.com/lfre84216/BookBorrowSystem/blob/main/3.png">
 <br>
 <img src="https://github.com/lfre84216/BookBorrowSystem/blob/main/4.png">
-<br><br><br>
+<br>
 
 ### 管理者<br>
 <img src="https://github.com/lfre84216/BookBorrowSystem/blob/main/5.png">
 <br>
 <img src="https://github.com/lfre84216/BookBorrowSystem/blob/main/6.png">
-<br><br><br>
+<br>
 
 
 ## 製作過程與困難點
