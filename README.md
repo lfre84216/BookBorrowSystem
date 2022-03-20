@@ -13,7 +13,7 @@
 - Windows Form
 - ADO.NET
 - MSSQL
-- MetroModernUI
+- MetroModernUI+CSkin
 
 
 ## 主要實作功能
