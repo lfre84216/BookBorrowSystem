@@ -31,7 +31,7 @@
 <img src="https://github.com/lfre84216/BookBorrowSystem/blob/main/8.png">
 <br>
 
-### 使用者<br>
+### 使用者介面<br>
 <img src="https://github.com/lfre84216/BookBorrowSystem/blob/main/1.png">
 <br>
 <img src="https://github.com/lfre84216/BookBorrowSystem/blob/main/2.png">
@@ -41,7 +41,7 @@
 <img src="https://github.com/lfre84216/BookBorrowSystem/blob/main/4.png">
 <br>
 
-### 管理者<br>
+### 管理者介面<br>
 <img src="https://github.com/lfre84216/BookBorrowSystem/blob/main/5.png">
 <br>
 <img src="https://github.com/lfre84216/BookBorrowSystem/blob/main/6.png">
