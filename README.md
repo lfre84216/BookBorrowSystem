@@ -24,9 +24,27 @@
 - 後臺管理系統 (CRUD增刪改查操作)
 - 使用者申報推薦書籍
 
-## 程式截圖
-使用者借書畫面
+## 相關程式截圖
+登入註冊相關畫面<br>
+<img src="https://github.com/lfre84216/BookBorrowSystem/blob/main/7.png">
+<br><br><br>
+<img src="https://github.com/lfre84216/BookBorrowSystem/blob/main/8.png">
+<br><br><br>
+使用者相關畫面<br>
 <img src="https://github.com/lfre84216/BookBorrowSystem/blob/main/1.png">
+<br><br><br>
+<img src="https://github.com/lfre84216/BookBorrowSystem/blob/main/2.png">
+<br><br><br>
+<img src="https://github.com/lfre84216/BookBorrowSystem/blob/main/3.png">
+<br><br><br>
+<img src="https://github.com/lfre84216/BookBorrowSystem/blob/main/4.png">
+<br><br><br>
+管理者相關畫面<br>
+<img src="https://github.com/lfre84216/BookBorrowSystem/blob/main/5.png">
+<br><br><br>
+<img src="https://github.com/lfre84216/BookBorrowSystem/blob/main/6.png">
+<br><br><br>
+
 
 ## 製作過程與困難點
 在實作該專案的過程中，有嘗試想要實際讓資料庫可以被外部來連接，<br>
