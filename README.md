@@ -25,7 +25,7 @@
 - 使用者申報推薦書籍
 
 ## 程式截圖
-使用者借書畫面<br>
+使用者借書畫面
 <img src="https://github.com/lfre84216/BookBorrowSystem/blob/main/1.png">
 
 ## 製作過程與困難點
